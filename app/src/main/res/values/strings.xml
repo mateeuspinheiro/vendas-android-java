@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app_usuario_firebase</string>
+    <string name="Entrar">Fazer Login</string>
+    <string name="cadastro">Cadastre-se Clicando Aqui!</string>
+</resources>
