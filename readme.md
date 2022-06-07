@@ -2,4 +2,3 @@
 
 //A intenção é mostrar boas condutas de programação em Java para criação de um APP de vendas fazendo uso de Firebase como database//
 
-AAAAAAAAAAAAAAAAAAAAAA 2
